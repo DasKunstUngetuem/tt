@@ -9,13 +9,19 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-In0&In2=out0
+AND and clock
+
+
 clc= out7
 
 ## How to test
-conect pins
-Explain how to use your project
+
+Input A & B Output
+00        0
+01        0 
+10        0   
+11        1
+  
 
 ## External hardware
 
