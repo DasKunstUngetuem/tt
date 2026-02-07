@@ -14,7 +14,7 @@ In0&In2=out0
 clc= out7
 
 ## How to test
-
+conect pins
 Explain how to use your project
 
 ## External hardware
